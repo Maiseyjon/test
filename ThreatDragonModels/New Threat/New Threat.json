@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "New Threat",
+    "owner": "Jon",
+    "description": "test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Jon"
+  }
+}
